@@ -41,7 +41,7 @@ This repository houses all the source code, scripts, and resources associated wi
 
 ## About Me
 
-Hi, I’m **[Your Name]**! I’m a passionate developer and content creator who loves to merge technology with creativity. I started the **#365Challenge** as a way to push my boundaries and document my growth throughout the year. My journey is fueled by a deep interest in exploring new ways of storytelling—blending code, art, and daily inspiration. I believe that every day offers a new opportunity to learn and create, and through this project, I hope to inspire others to take on their own creative challenges.
+Hi, I’m **GAURAV**! I’m a passionate developer and content creator who loves to merge technology with creativity. I started the **#365Challenge** as a way to push my boundaries and document my growth throughout the year. My journey is fueled by a deep interest in exploring new ways of storytelling—blending code, art, and daily inspiration. I believe that every day offers a new opportunity to learn and create, and through this project, I hope to inspire others to take on their own creative challenges.
 
 ## How to Contribute
 

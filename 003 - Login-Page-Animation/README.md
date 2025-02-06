@@ -46,7 +46,4 @@ X: 🐦 x.com/the_gaurav_code
 Give a ⭐ if you like this project! 😃🔥
 
 
-### Notes:
-- Replace `"your-image-link-here"` with an actual image link of your project preview.  
-- I included **installation steps**, **features**, and **social media links** to make it **professional** and **engaging**.  
-- Let me know if you need any modifications! 🚀😃
+

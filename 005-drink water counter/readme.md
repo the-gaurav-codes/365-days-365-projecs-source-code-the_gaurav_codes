@@ -24,3 +24,18 @@ A simple **Drink Water Counter** built using **HTML, CSS, and JavaScript** to he
 1. **Clone the repository**  
    ```sh
    git clone https://github.com/the-gaurav-codes/drink-water-counter.git
+2.Open index.html in your browser
+3.Start tracking your daily water intake! 💧
+
+📝 License
+This project is licensed under the MIT License. See LICENSE for details.
+
+👨‍💻 Author
+Gaurav
+🔗 GitHub: the-gaurav-codes
+📷 Instagram: the_gaurav_codes
+
+🚀 Stay hydrated and happy coding! 💙
+
+
+Would you like me to add anything else? 😊

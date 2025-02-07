@@ -1,3 +1,9 @@
+/* 
+🚀 Made by Gaurav 🚀  
+  🔹 Instagram: https://www.instagram.com/the_gaurav_codes/  
+  🔹 GitHub: https://github.com/the-gaurav-codes  
+  ⚡ Feel free to use & modify, but give credit! ⚡ */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;600;700;800;900&display=swap');
 
 * {
@@ -41,6 +47,12 @@ body{
   transition: transform 5s ease-in-out;
   overflow: hidden;
 }
+
+/* 🚀 Made by Gaurav 🚀  
+  🔹 Instagram: https://www.instagram.com/the_gaurav_codes/  
+  🔹 GitHub: https://github.com/the-gaurav-codes  
+  ⚡ Feel free to use & modify, but give credit! ⚡
+ */
 .wheel span{
   position: absolute;
   left: calc(50% - 1px);
@@ -68,6 +80,12 @@ body{
   font-weight: 600;
   letter-spacing: 0.1em;
 }
+
+/* 🚀 Made by Gaurav 🚀  
+  🔹 Instagram: https://www.instagram.com/the_gaurav_codes/  
+  🔹 GitHub: https://github.com/the-gaurav-codes  
+  ⚡ Feel free to use & modify, but give credit! ⚡ */
+
 .number{
   position: absolute;
   inset: 0;
@@ -91,3 +109,9 @@ body{
   border: 3px solid #39ffe2;
   transition: transform 10s ease-in-out;
 }
+
+
+/* 🚀 Made by Gaurav 🚀  
+  🔹 Instagram: https://www.instagram.com/the_gaurav_codes/  
+  🔹 GitHub: https://github.com/the-gaurav-codes  
+  ⚡ Feel free to use & modify, but give credit! ⚡ */

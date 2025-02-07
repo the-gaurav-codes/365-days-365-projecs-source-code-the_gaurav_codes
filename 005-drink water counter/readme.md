@@ -10,7 +10,10 @@ A simple **Drink Water Counter** built using **HTML, CSS, and JavaScript** to he
 - 🎨 **Simple UI:** Clean and minimalistic design.  
 
 ## 🖼 Preview  
-![Drink Water Counter](https://via.placeholder.com/800x400?text=Project+Screenshot) *(Replace with actual screenshot)*  
+
+
+![Drink Water Counter]![image](https://github.com/user-attachments/assets/50adbeb2-0096-4a44-9956-1c6b088c900a)
+
 
 ## 🛠️ Technologies Used
 - **HTML** – Structure of the page.  

@@ -1,3 +1,9 @@
+
+// 🚀 Made by Gaurav 🚀  
+//   🔹 Instagram: https://www.instagram.com/the_gaurav_codes/  
+//   🔹 GitHub: https://github.com/the-gaurav-codes  
+//   ⚡ Feel free to use & modify, but give credit! ⚡
+
 let wheel = document.querySelector('.wheel');
 let inner = document.querySelector('.inner');
 let spinBtn = document.querySelector('.spinBtn');
@@ -11,3 +17,9 @@ spinBtn.addEventListener('click', function(){
     value1 += Math.ceil(Math.random() * -3600);
     value2 += Math.ceil(Math.random() * 3600);
 });
+
+
+// 🚀 Made by Gaurav 🚀  
+//   🔹 Instagram: https://www.instagram.com/the_gaurav_codes/  
+//   🔹 GitHub: https://github.com/the-gaurav-codes  
+//   ⚡ Feel free to use & modify, but give credit! ⚡

@@ -2,6 +2,10 @@
 
 🚀 **An Interactive Cursor Effect Using HTML, CSS, and JavaScript**  
 
+.
+🔥 Live Preview
+You can see the project in action here:
+
 🔗 **Live Demo:** [View Project on Netlify](https://text-reveal-on-hove.netlify.app/)  
 
 ## 📌 Overview  

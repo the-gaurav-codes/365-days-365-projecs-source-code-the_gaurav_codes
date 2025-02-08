@@ -1,7 +1,9 @@
 # 🎨 Responsive Image Slider | HTML, CSS, JavaScript  
 
-![Project Screenshot](![Screenshot 2025-02-08 102903](![image](https://github.com/user-attachments/assets/43c39ed6-d815-43cd-9251-98240b107507)
-) 
+## 🖼️ Project Screenshot  
+![Text Reveal on Hover](![image](https://github.com/user-attachments/assets/952155b5-6814-4980-b93d-cc5d77286bf2)
+)
+
 
 ## 📌 Overview  
 This project is a **fully responsive image slider** built using **HTML, CSS, and JavaScript**. It features smooth transitions, auto-sliding functionality, and manual navigation, making it perfect for modern web applications.  

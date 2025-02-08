@@ -6,6 +6,10 @@ This is an interactive **Spinning Wheel Game**, where users can click a button t
 
 ---
 
+🔗 **Live Demo:** [View Project on Netlify](https://text-reveal-on-hove-gaurav.netlify.app/)  
+
+---
+
 ## 📌 Features
 ✅ Click the **Spin** button to rotate the wheels 🎰  
 ✅ Randomized number generation on each spin 🔢  
@@ -42,9 +46,6 @@ This is an interactive **Spinning Wheel Game**, where users can click a button t
 🔹 Implement a scoring system for game-based interactions 🏆  
 
 ---
-
-## 📸 Preview
-![image](https://github.com/user-attachments/assets/02c94a62-fd7b-4e0d-9d3e-16b149042ec1)
 
 
 ---

@@ -28,6 +28,7 @@ This project creates a **cool text reveal effect** where the text follows the us
    ```sh
    git clone https://github.com/the-gaurav-codes/text-reveal-hover.git
 2.Open index.html in your browser.
+
 3.Modify the text, styles, or animation as needed.
 
 

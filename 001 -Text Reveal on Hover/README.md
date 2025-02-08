@@ -7,7 +7,7 @@
 
 You can see the project in action here:
 
-🔗 **Live Demo:** [View Project on Netlify](https://text-reveal-on-hove.netlify.app/)  
+🔗 **Live Demo:** [View Project on Netlify](https://text-reveal-on-hove-gaurav.netlify.app/)  
 
 ## 📌 Overview  
 This project creates a **cool text reveal effect** where the text follows the user's cursor and appears dynamically on hover. It uses **CSS blending modes** and **JavaScript event listeners** to achieve a stylish UI effect.  

@@ -6,7 +6,7 @@ This is an interactive **Spinning Wheel Game**, where users can click a button t
 
 ---
 
-🔗 **Live Demo:** [View Project on Netlify](https://text-reveal-on-hove-gaurav.netlify.app/)  
+🔗 **Live Demo:** [View Project on Netlify](https://spin-circular-gaurav.netlify.app/)  
 
 ---
 

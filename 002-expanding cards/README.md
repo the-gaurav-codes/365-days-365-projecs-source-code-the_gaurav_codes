@@ -1,6 +1,6 @@
 # 🎨 Responsive Image Slider | HTML, CSS, JavaScript  
 
-![Project Screenshot](![Screenshot 2025-02-08 102903](https://github.com/user-attachments/assets/62e9001f-f38e-422a-a740-98817d3880e0)
+![Project Screenshot](![Screenshot 2025-02-08 102903]https://github.com/user-attachments/assets/62e9001f-f38e-422a-a740-98817d3880e0
 ) 
 ## 📌 Overview  
 This project is a **fully responsive image slider** built using **HTML, CSS, and JavaScript**. It features smooth transitions, auto-sliding functionality, and manual navigation, making it perfect for modern web applications.  
@@ -39,8 +39,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Follow me for more amazing projects and updates! 🚀
 
-📷 Instagram: @the_gaurav_codes
-🐙 GitHub: @the-gaurav-codes
+📷 Instagram: https://www.instagram.com/the_gaurav_codes/
+
+🐙 GitHub: [@the-gaurav-codes](https://github.com/the-gaurav-codes)
 
 ⚡ Feel free to use & modify, but give credit! ⚡
 

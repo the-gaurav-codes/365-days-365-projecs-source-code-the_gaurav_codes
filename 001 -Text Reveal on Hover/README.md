@@ -31,10 +31,6 @@ This project creates a **cool text reveal effect** where the text follows the us
 3.Modify the text, styles, or animation as needed.
 
 
-🔥 Live Preview
-You can see the project in action here:
-🔗 Live Demo on Netlify
-
 📲 Connect with Me
 Follow me for more amazing projects and updates! 🚀
 

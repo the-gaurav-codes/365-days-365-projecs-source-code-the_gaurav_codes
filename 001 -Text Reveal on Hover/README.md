@@ -2,6 +2,8 @@
 
 🚀 **An Interactive Cursor Effect Using HTML, CSS, and JavaScript**  
 
+🔗 **Live Demo:** [View Project on Netlify](https://text-reveal-on-hove.netlify.app/)  
+
 ## 📌 Overview  
 This project creates a **cool text reveal effect** where the text follows the user's cursor and appears dynamically on hover. It uses **CSS blending modes** and **JavaScript event listeners** to achieve a stylish UI effect.  
 
@@ -25,3 +27,18 @@ This project creates a **cool text reveal effect** where the text follows the us
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/the-gaurav-codes/text-reveal-hover.git
+2.Open index.html in your browser.
+3.Modify the text, styles, or animation as needed.
+
+
+🔥 Live Preview
+You can see the project in action here:
+🔗 Live Demo on Netlify
+
+📲 Connect with Me
+Follow me for more amazing projects and updates! 🚀
+
+📷 Instagram: @the_gaurav_codes
+🐙 GitHub: @the-gaurav-codes
+
+⚡ Feel free to use & modify, but give credit! ⚡

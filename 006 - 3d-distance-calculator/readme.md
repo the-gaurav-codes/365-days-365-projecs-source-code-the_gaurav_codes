@@ -2,8 +2,10 @@
 
 Welcome to the **3D Distance Calculator**! This project is part of my **#365Challenge** where I build and share a project every day. This tool calculates the distance between two points in a **3D space** using a simple formula.
 
-## 🌍 Live Demo
-🔗 Check out the project live on **Netlify**: [Click Here]([https://text-reveal-on-hove.netlify.app/](https://3d-distance-calculator-gaurav.netlify.app/))
+## 🔥 Live Preview  
+You can see the project in action here:  
+🔗 **[Live Demo on Netlify](https://3d-distance-calculator-gaurav.netlify.app/)**
+
 
 ## 📌 What is this project about?
 This **3D Distance Calculator** takes three coordinates (X, Y, and Z) for two points and calculates the straight-line distance between them. This is useful in **graphics programming, physics simulations, game development,** and more.

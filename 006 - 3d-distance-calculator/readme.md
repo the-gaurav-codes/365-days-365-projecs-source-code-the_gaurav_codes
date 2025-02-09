@@ -65,5 +65,5 @@ Want to improve this project? Here’s how you can contribute:
 
 🔔 **Follow for daily coding projects & tutorials!** 💻🚀
 
-## 📌 Hashtags
+
 #365Challenge #WebDevelopment #JavaScriptProjects #FrontendDevelopment #CodingLife #LearnToCode #JSProjects #TechInnovator #CodeWithGaurav #3DCalculator #HTML #CSS #JavaScript 🚀

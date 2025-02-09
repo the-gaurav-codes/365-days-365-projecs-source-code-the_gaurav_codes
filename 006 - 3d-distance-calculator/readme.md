@@ -53,6 +53,7 @@ d = sqrt((x2 - x1)^2 + (y2 - y1)^2 + (z2 - z1)^2)
 3. Enter values for X, Y, and Z and **click "Calculate"** to see the result.
 
 ## 🎯 Contribute to This Project!
+
 Want to improve this project? Here’s how you can contribute:
 - 🚀 **Fork** the repo & create your branch
 - 🛠️ **Enhance the UI**

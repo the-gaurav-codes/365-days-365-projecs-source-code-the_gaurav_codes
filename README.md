@@ -62,13 +62,6 @@ I’d love to hear your **feedback, suggestions, and contributions!** 🙌
 
 ---
 
-## 🛠 Getting Started  
-**Clone the repository and start exploring!** 🚀  
-
-```bash
-git clone https://github.com/the-gaurav-codes/365-days-365-projecs-source-code-the_gaurav_codes.git
-
-
 ## 📲 Follow Me
 Stay updated with my latest projects and coding journey! Connect with me on:
 - **Instagram**: [@the_gaurav_codes](https://instagram.com/the_gaurav_codes)
@@ -78,3 +71,12 @@ Stay updated with my latest projects and coding journey! Connect with me on:
 - **Telegram**: [@the_gaurav_codes](https://t.me/the_gaurav_codes)
 
 💙 If you like this project, don't forget to **star the repository** on GitHub and **follow me** for more amazing projects!
+
+
+## 🛠 Getting Started  
+**Clone the repository and start exploring!** 🚀  
+
+```bash
+git clone https://github.com/the-gaurav-codes/365-days-365-projecs-source-code-the_gaurav_codes.git
+
+

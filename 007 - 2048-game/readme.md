@@ -60,7 +60,7 @@ You can play the **2024 Game** directly in your browser, or you can host it loca
 2.Open the Game
    Simply open the index.html file in your browser:
       
-      start index.html
+    start index.html
       
 3.Enjoy the Game! 🎮
 
@@ -85,10 +85,15 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 🔥 I'm building 365 projects in 365 days! Follow me for more:
 
 🔗 Instagram – instagram.com/the_gaurav_codes
+
 🔗 GitHub – github.com/the-gaurav-codes
+
 🔗 YouTube – youtube.com/c/CodeWithGaurav
+
 🔗 LinkedIn – linkedin.com/in/thegauravcodes
+
 🔗 X (Twitter) – x.com/the_gaurav_code
+
 
 🚀 Star ⭐ this repository, follow me, and share it with fellow developers!
 

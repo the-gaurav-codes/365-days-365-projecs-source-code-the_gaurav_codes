@@ -1,4 +1,9 @@
-document.addEventListener("DOMContentLoaded", () => {
+// Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
+
+// Date: February 2025 
+    document.addEventListener("DOMContentLoaded", () => {
     const gridDisplay = document.querySelector('.grid-container');
     const scoreDisplay = document.querySelector('.score-container');
     const bestDisplay = document.querySelector('.best-container');
@@ -34,7 +39,11 @@ document.addEventListener("DOMContentLoaded", () => {
             displayTiles();
         }
     }
+// Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
 
+// Date: February 2025 
     // Display the tiles on the board
     function displayTiles() {
         tileContainer.innerHTML = '';
@@ -67,7 +76,11 @@ document.addEventListener("DOMContentLoaded", () => {
         checkForGameOver();
         checkForWin();
     }
+// Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
 
+// Date: February 2025 
     // Check for game over condition
     function checkForGameOver() {
         if (!tiles.includes(0)) {
@@ -122,7 +135,11 @@ document.addEventListener("DOMContentLoaded", () => {
             displayTiles();
         }
     }
+// Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
 
+// Date: February 2025 
     function slide(row) {
         let newRow = row.filter(tile => tile);
         for (let i = 0; i < newRow.length - 1; i++) {
@@ -139,7 +156,11 @@ document.addEventListener("DOMContentLoaded", () => {
         return newRow;
     }
 
-    // Listen for key presses
+  // Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
+
+// Date: February 2025   // Listen for key presses
     document.addEventListener('keydown', e => {
         if (e.key === 'ArrowRight') {
             moveTiles('right');
@@ -162,7 +183,11 @@ document.addEventListener("DOMContentLoaded", () => {
     let touchStartY = 0;
     let touchEndX = 0;
     let touchEndY = 0;
-    
+// Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
+
+// Date: February 2025     
     // Function to handle swipe detection
     function handleSwipe() {
         const diffX = touchEndX - touchStartX;
@@ -201,7 +226,11 @@ document.addEventListener("DOMContentLoaded", () => {
         touchEndY = e.changedTouches[0].screenY;
         handleSwipe();
     });
-    
+// Created by: Gaurav  
+// 🔹GitHub: https://github.com/the-gaurav-codes 
+// 🔹Instagram: https://www.instagram.com/the_gaurav_codes/  
+
+// Date: February 2025     
 
     // Start a new game
     newGameButton.addEventListener('click', () => {

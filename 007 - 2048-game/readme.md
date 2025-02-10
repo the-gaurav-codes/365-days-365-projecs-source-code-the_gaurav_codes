@@ -55,12 +55,12 @@ You can play the **2024 Game** directly in your browser, or you can host it loca
 
 1. **Clone the Repository**  
    ```sh
-   git clone https://github.com/the-gaurav-codes/2024-game.git
-   cd 2024-game
+     git clone https://github.com/the-gaurav-codes/2024-game.git
+     cd 2024-game
 2.Open the Game
    Simply open the index.html file in your browser:
       
-    start index.html
+     start index.html
       
 3.Enjoy the Game! 🎮
 
@@ -84,15 +84,21 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 📢 Follow Me for More Cool Projects!
 🔥 I'm building 365 projects in 365 days! Follow me for more:
 
-🔗 Instagram – instagram.com/the_gaurav_codes
+📌 Instagram: https://www.instagram.com/the_gaurav_codes
 
-🔗 GitHub – github.com/the-gaurav-codes
+🔗 GitHub: https://github.com/the-gaurav-codes
 
-🔗 YouTube – youtube.com/c/CodeWithGaurav
+📢 Telegram: https://t.me/the_gaurav_codes
 
-🔗 LinkedIn – linkedin.com/in/thegauravcodes
+🐦 X (Twitter): https://x.com/the_gaurav_code
 
-🔗 X (Twitter) – x.com/the_gaurav_code
+📺 YouTube: https://www.youtube.com/@the_gau_rav_codes
+
+📘 Facebook: https://www.facebook.com/people/Gaurav-Gaurav/61559077605788/
+
+👻 Snapchat: https://www.snapchat.com/add/thegau_rav
+
+💼 LinkedIn: https://www.linkedin.com/in/thegauravcodes/
 
 
 🚀 Star ⭐ this repository, follow me, and share it with fellow developers!

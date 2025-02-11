@@ -17,7 +17,7 @@ Whether you are simply curious about your precise age or need detailed age analy
 - 🆓 **Open Source & Collaborative**: Contributions are welcome! Join the development and help improve the tool.
 
 ## 🌍 Live Demo
-The project is live on Netlify! Experience the tool here: [Visit Live Site](https://text-reveal-on-hove.netlify.app/)
+The project is live on Netlify! Experience the tool here: [Visit Live Site]([https://text-reveal-on-hove.netlify.app/](https://age-calculator-gaurav.netlify.app/))
 
 ## 🛠️ How to Clone the Repository
 Want to contribute or use this project locally? Follow these simple steps:
@@ -44,7 +44,7 @@ Want to contribute or use this project locally? Follow these simple steps:
 7. **Commit and Push Your Changes**:
    ```sh
    git add .
-   git commit -m "Your commit message"
+   git commit -m "committed"
    git push origin your-branch-name
    ```
 8. **Create a Pull Request**: Submit your changes for review and approval.

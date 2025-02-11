@@ -1,4 +1,4 @@
-#🗓️  Age Calculator
+# 🗓️  Age Calculator
 
 ## 🚀 About the Project
 The **Age Calculator** is a comprehensive and interactive web-based tool that allows users to determine their exact age based on their date of birth. Unlike a simple age calculation, this tool provides an in-depth breakdown of age in terms of years, months, weeks, and days. It also includes additional utilities such as a leap year checker, countdown to the next birthday, and real-time updates.
